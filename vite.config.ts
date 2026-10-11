@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/InternNova-Homepage/'
+  base: '/InternNova-Homepage/',
   plugins: [
     react(),
     tailwindcss(),
